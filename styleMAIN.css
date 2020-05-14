@@ -1,0 +1,21 @@
+body, html{
+    height: 97%;
+    background-color: darkcyan;
+}
+#tekst{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("backpic.png");
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    /* Full height */
+    height: 97%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
